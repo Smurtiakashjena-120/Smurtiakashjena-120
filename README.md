@@ -25,7 +25,7 @@ I am a passionate software developer who enjoys building efficient systems, scal
 
 ### Tools & Platforms
 - Git & GitHub
-- VS Code
+- VS Code & intellij idea
 - MongoDB, Express.js
 - SQL / PostgreSQL
 
