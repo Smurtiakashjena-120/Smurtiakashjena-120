@@ -1,13 +1,53 @@
-# 👋 Hi, I’m @Smurtiakashjena-120
+# 👋 Hi, I’m Smurti Akash Jena
 
-## About Me
--  I’m interested in **coding** and **web development**!
+🎓 **Undergraduate at NIT Tiruchirappalli**  
+💼 **Incoming Software Developer Intern @ BNY**  
+💻 **Problem Solver | Full-Stack Enthusiast **
 
--  How to reach me: Want to discuss a project or grab a cup of coffee? Here’s a top-secret formula to reach me: 
-  - First, travel to the beautiful campus of **NIT Trichy**. 
-  - If you see me lost in thought, just say, “Hey, do you like pizza?” I’ll definitely respond! 🍕
-  
-## Pronouns
-- Pronouns: **He/Him** 
+---
 
-Feel free to connect with me! Let’s create something amazing together. 🚀
+## 🚀 About Me
+
+I am a passionate software developer who enjoys building efficient systems, scalable web applications, and solving challenging algorithmic problems. I like working close to real-world use cases and continuously improving code quality and performance.
+
+- 🏫 Institute: **NIT Trichy**
+-  Upcoming Role: **Software Developer Intern – BNY**
+-  Strong foundation in **Data Structures & Algorithms**
+-  Currently exploring **Java Development** and backend system design
+-  Hands-on experience with **Web Development**
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- **C++**, **Java**, **Python**, **JavaScript**
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- MongoDB, Express.js
+- SQL / PostgreSQL
+
+---
+
+## 🧩 Problem Solving
+
+-  **LeetCode Knight**
+-  **850+ problems solved**
+
+
+---
+
+
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn**: *https://www.linkedin.com/in/smurti-akash-jena-91519b28a*
+- 🧠 **LeetCode**: *https://leetcode.com/u/Akash_nitt/*
+- 📧 **Portfolio**: *phoenixx-six.vercel.app*
+
+---
+
+⭐ *Always open to collaborations, internships, and interesting problem discussions.*  
+Let’s build something impactful together!
