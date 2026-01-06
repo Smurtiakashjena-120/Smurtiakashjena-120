@@ -18,7 +18,7 @@ I am a passionate software developer who enjoys building efficient systems, scal
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 - **C++**, **Java**, **Python**, **JavaScript**
