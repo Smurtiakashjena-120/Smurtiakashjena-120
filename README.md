@@ -1,16 +1,16 @@
 # 👋 Hi, I’m Smurti Akash Jena
 
 🎓 **Undergraduate at NIT Tiruchirappalli**  
-💼 **Incoming Software Developer Intern @ BNY**  
-💻 **Problem Solver | Full-Stack Enthusiast **
+**Incoming Software Developer Intern @ BNY**  
+ **Problem Solver | Full-Stack Enthusiast **
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a passionate software developer who enjoys building efficient systems, scalable web applications, and solving challenging algorithmic problems. I like working close to real-world use cases and continuously improving code quality and performance.
 
-- 🏫 Institute: **NIT Trichy**
+- Institute: **NIT Trichy**
 -  Upcoming Role: **Software Developer Intern – BNY**
 -  Strong foundation in **Data Structures & Algorithms**
 -  Currently exploring **Java Development** and backend system design
@@ -31,7 +31,7 @@ I am a passionate software developer who enjoys building efficient systems, scal
 
 ---
 
-## 🧩 Problem Solving
+## Problem Solving
 
 -  **LeetCode Knight**
 -  **850+ problems solved**
@@ -41,13 +41,13 @@ I am a passionate software developer who enjoys building efficient systems, scal
 
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 **LinkedIn**: *https://www.linkedin.com/in/smurti-akash-jena-91519b28a*
-- 🧠 **LeetCode**: *https://leetcode.com/u/Akash_nitt/*
-- 📧 **Portfolio**: *phoenixx-six.vercel.app*
+- **LinkedIn**: *https://www.linkedin.com/in/smurti-akash-jena-91519b28a*
+-  **LeetCode**: *https://leetcode.com/u/Akash_nitt/*
+-  **Portfolio**: *phoenixx-six.vercel.app*
 
 ---
 
-⭐ *Always open to collaborations, internships, and interesting problem discussions.*  
-Let’s build something impactful together!
+ *open to collaborations, internships, and interesting problem discussions.*  
+
