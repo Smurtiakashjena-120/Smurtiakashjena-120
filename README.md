@@ -45,7 +45,7 @@ I am a passionate software developer who enjoys building efficient systems, scal
 
 - **LinkedIn**: *https://www.linkedin.com/in/smurti-akash-jena-91519b28a*
 -  **LeetCode**: *https://leetcode.com/u/Akash_nitt/*
--  **Portfolio**: *phoenixx-six.vercel.app*
+-  **Portfolio**: *https://akashhh.vercel.app/*
 
 ---
 
